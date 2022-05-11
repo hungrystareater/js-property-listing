@@ -47,6 +47,7 @@ video_props = video_props.sort();
 svg_props = svg_props.sort();
 canvas_props = canvas_props.sort();
 table_props = table_props.sort();
+form_props = form_props.sort();
 
 document.body.innerHTML += "<b>WINDOW UNIQUE PROPERTIES";
 let cnt = 0;
